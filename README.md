@@ -12,6 +12,8 @@ To run:
 $ ./h
 
 The output I got is:
+
+
  the total no. of platforms detected is :1
 
   Name of the platform selected: AMD Accelerated Parallel Processing 
